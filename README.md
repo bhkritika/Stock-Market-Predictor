@@ -29,6 +29,14 @@ TThe dataset used in this project contains historical stock market data for vari
 
 The project utilizes a pre-trained machine learning model for stock price prediction. The model is trained on historical stock data using a machine learning architecture and is capable of forecasting future stock prices based on the provided input features.
 
+# SCREENSHOTS
+
+![1](https://github.com/bhkritika/Stock-Market-Predictor/assets/141895513/645691aa-385b-4738-b7e6-d5aa341827f9) 
+![2  ](https://github.com/bhkritika/Stock-Market-Predictor/assets/141895513/83958428-1d24-4e16-984a-92b20a4f15e4)
+![3  ](https://github.com/bhkritika/Stock-Market-Predictor/assets/141895513/6e5ce3f0-f3d6-4996-90dc-c9fedf97ee6a)
+![4  ](https://github.com/bhkritika/Stock-Market-Predictor/assets/141895513/a73a180e-ae94-41d1-b743-4244e175f78b)
+
+
 
 ## Acknowledgements
 
